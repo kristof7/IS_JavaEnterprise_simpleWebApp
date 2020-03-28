@@ -4,7 +4,7 @@ import com.isa.usersengine.domain.User;
 import java.util.ArrayList;
 import java.util.List;
 
-public class UserRepository {
+public class UserDb {
 
   private static List<User> userRepository = new ArrayList<>();
 
