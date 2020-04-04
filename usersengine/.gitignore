@@ -8,9 +8,9 @@ target
 
 #src/main/java/com/isa/usersengine/domain/User.java
 
-src/main/java/com/isa/usersengine/storage/UserDb.java
-src/main/java/com/isa/usersengine/repository/UserRepository.java
-src/main/java/com/isa/usersengine/repository/UserRepositoryBean.java
+#src/main/java/com/isa/usersengine/storage/UserDb.java
+#src/main/java/com/isa/usersengine/repository/UserRepository.java
+#src/main/java/com/isa/usersengine/repository/UserRepositoryBean.java
 
 #src/main/java/com/isa/usersengine/Main.java
 
