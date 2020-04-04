@@ -6,7 +6,7 @@ target
 #src/main/webapp/WEB-INF/web.xml
 #src/main/webapp/index.jsp
 
-src/main/java/com/isa/usersengine/domain/User.java
+#src/main/java/com/isa/usersengine/domain/User.java
 
 src/main/java/com/isa/usersengine/storage/UserDb.java
 src/main/java/com/isa/usersengine/repository/UserRepository.java
